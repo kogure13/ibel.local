@@ -45,3 +45,4 @@
 [Sun Sep 05 14:43:47.539761 2021] [php7:notice] [pid 28054] [client 127.0.0.1:36078] PHP Notice:  Trying to access array offset on value of type null in /var/www/ibel.local/app/core/App.php on line 12
 [Sun Sep 05 14:48:23.294651 2021] [php7:warn] [pid 30286] [client 127.0.0.1:38122] PHP Warning:  require(pegawai/koneksi.php): failed to open stream: No such file or directory in /var/www/ibel.local/app/views/login/index.php on line 3
 [Sun Sep 05 14:48:23.294688 2021] [php7:error] [pid 30286] [client 127.0.0.1:38122] PHP Fatal error:  require(): Failed opening required 'pegawai/koneksi.php' (include_path='.:/usr/share/php') in /var/www/ibel.local/app/views/login/index.php on line 3
+[Sun Sep 05 16:26:21.613544 2021] [php7:notice] [pid 34953] [client 127.0.0.1:57932] PHP Notice:  Trying to access array offset on value of type null in /var/www/ibel.local/app/core/App.php on line 12
