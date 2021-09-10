@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 access_log
 error_log
+=======
+access.log
+error.log
+>>>>>>> 4afacbf0b354cac1f78bea50b3ee5031f6176191
