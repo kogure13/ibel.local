@@ -5,3 +5,6 @@ $base_url .= "://" . $_SERVER['HTTP_HOST'];
 $base_url .= str_replace(basename($_SERVER['SCRIPT_NAME']), "", $_SERVER['SCRIPT_NAME']);
 
 define('BASEURL', $base_url);
+
+// DB
+define('DB_HOST', '');
