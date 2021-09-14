@@ -7,7 +7,7 @@ $base_url .= str_replace(basename($_SERVER['SCRIPT_NAME']), "", $_SERVER['SCRIPT
 define('BASEURL', $base_url);
 
 // DB
-define('DB_HOST', '');
-define('DB_NAME', '');
-define('DB_USER', '');
-define('DB_PASS', '');
+define('DB_HOST', 'molte.id');
+define('DB_NAME', 'molteid_ibel');
+define('DB_USER', 'molteid_root');
+define('DB_PASS', '@KumahaAing2019');
